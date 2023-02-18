@@ -30,6 +30,7 @@ void PrintArray(int[] array)
     Console.ResetColor();
 }
 
+/*
 int getSumOfNegative(int[] array)
 {
     int sum = 0;
@@ -51,12 +52,25 @@ int getSumOfPositive(int[] array)
     }
     return sum;
 }
+*/
+
+int getSumOfNegativePositive(int[] array, int flag = 1)// flag = 1  Flag = - 1;
+{
+    int sum = 0;
+    for(int i = 0; i < array.Length; i++)
+    {
+        if (array[i] * flag > 0)
+        sum = sum + array[i];
+    }
+    return sum;
+}
+
 
 int[] Array = generateArray(12, -9, 9);
 PrintArray(Array);
 Console.WriteLine();
-int sumOfNegative = getSumOfNegative(Array);
-int sumOfPositive = getSumOfPositive(Array);
+int sumOfNegative = getSumOfNegativePositive(Array, - 1);
+int sumOfPositive = getSumOfNegativePositive(Array,  1);
 Console.ForegroundColor = ConsoleColor.DarkBlue;
 Console.WriteLine($"Сумма отрицательных чисел = {sumOfNegative}");
 Console.WriteLine();
