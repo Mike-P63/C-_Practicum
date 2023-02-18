@@ -1,0 +1,15 @@
+F:\C# Practicum\Digits_In_Number\bin\Debug\net7.0\Digits_In_Number.exe
+F:\C# Practicum\Digits_In_Number\bin\Debug\net7.0\Digits_In_Number.deps.json
+F:\C# Practicum\Digits_In_Number\bin\Debug\net7.0\Digits_In_Number.runtimeconfig.json
+F:\C# Practicum\Digits_In_Number\bin\Debug\net7.0\Digits_In_Number.dll
+F:\C# Practicum\Digits_In_Number\bin\Debug\net7.0\Digits_In_Number.pdb
+F:\C# Practicum\Digits_In_Number\obj\Debug\net7.0\Digits_In_Number.csproj.AssemblyReference.cache
+F:\C# Practicum\Digits_In_Number\obj\Debug\net7.0\Digits_In_Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Practicum\Digits_In_Number\obj\Debug\net7.0\Digits_In_Number.AssemblyInfoInputs.cache
+F:\C# Practicum\Digits_In_Number\obj\Debug\net7.0\Digits_In_Number.AssemblyInfo.cs
+F:\C# Practicum\Digits_In_Number\obj\Debug\net7.0\Digits_In_Number.csproj.CoreCompileInputs.cache
+F:\C# Practicum\Digits_In_Number\obj\Debug\net7.0\Digits_In_Number.dll
+F:\C# Practicum\Digits_In_Number\obj\Debug\net7.0\refint\Digits_In_Number.dll
+F:\C# Practicum\Digits_In_Number\obj\Debug\net7.0\Digits_In_Number.pdb
+F:\C# Practicum\Digits_In_Number\obj\Debug\net7.0\Digits_In_Number.genruntimeconfig.cache
+F:\C# Practicum\Digits_In_Number\obj\Debug\net7.0\ref\Digits_In_Number.dll
