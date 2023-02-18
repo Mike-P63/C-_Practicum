@@ -1,0 +1,15 @@
+F:\C# Practicum\Task_28_Sum_Digits\obj\Debug\net7.0\Task_28_Sum_Digits.csproj.AssemblyReference.cache
+F:\C# Practicum\Task_28_Sum_Digits\obj\Debug\net7.0\Task_28_Sum_Digits.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Practicum\Task_28_Sum_Digits\obj\Debug\net7.0\Task_28_Sum_Digits.AssemblyInfoInputs.cache
+F:\C# Practicum\Task_28_Sum_Digits\obj\Debug\net7.0\Task_28_Sum_Digits.AssemblyInfo.cs
+F:\C# Practicum\Task_28_Sum_Digits\obj\Debug\net7.0\Task_28_Sum_Digits.csproj.CoreCompileInputs.cache
+F:\C# Practicum\Task_28_Sum_Digits\bin\Debug\net7.0\Task_28_Sum_Digits.exe
+F:\C# Practicum\Task_28_Sum_Digits\bin\Debug\net7.0\Task_28_Sum_Digits.deps.json
+F:\C# Practicum\Task_28_Sum_Digits\bin\Debug\net7.0\Task_28_Sum_Digits.runtimeconfig.json
+F:\C# Practicum\Task_28_Sum_Digits\bin\Debug\net7.0\Task_28_Sum_Digits.dll
+F:\C# Practicum\Task_28_Sum_Digits\bin\Debug\net7.0\Task_28_Sum_Digits.pdb
+F:\C# Practicum\Task_28_Sum_Digits\obj\Debug\net7.0\Task_28_Sum_Digits.dll
+F:\C# Practicum\Task_28_Sum_Digits\obj\Debug\net7.0\refint\Task_28_Sum_Digits.dll
+F:\C# Practicum\Task_28_Sum_Digits\obj\Debug\net7.0\Task_28_Sum_Digits.pdb
+F:\C# Practicum\Task_28_Sum_Digits\obj\Debug\net7.0\Task_28_Sum_Digits.genruntimeconfig.cache
+F:\C# Practicum\Task_28_Sum_Digits\obj\Debug\net7.0\ref\Task_28_Sum_Digits.dll
