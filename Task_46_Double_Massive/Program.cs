@@ -15,6 +15,12 @@ int GetDataFromUser(string message)
     int result = int.Parse(Console.ReadLine()!);
     return result;
 }
+void PrintInColor(string data)
+{
+    Console.ForegroundColor = ConsoleColor.DarkBlue;
+    Console.Write(data);
+    Console.ResetColor();
+}
 
 double[,] get2DoubleArray(int collength, int rowlength, int start, int finish)
 {
@@ -22,6 +28,7 @@ double[,] get2DoubleArray(int collength, int rowlength, int start, int finish)
     const int divider = 100;
     for (int i = 0; i < collength; i++)
     {
+        
         for (int j = 0; j < rowlength; j++)
         {
             array[i,j] = new Random().Next(start*divider,finish+1 * divider) / (divider + 0.0);
@@ -32,13 +39,20 @@ double[,] get2DoubleArray(int collength, int rowlength, int start, int finish)
 }
 void Print2DArray(double[,] array)
 {
+    Console.Write("\t");
     for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (int j = 0; j < array.GetLength(1); j++)
+        PrintInColor(i + "\t");
+    }
+    Console.WriteLine();
+    for (int j = 0; j < array.GetLength(1); j++)
+    {
+        PrintInColor(j + "\t");
+        for (int i = 0; i < array.GetLength(0); i++)
         {
             Console.Write(array[i,j] + "\t");
         }
-        Console.WriteLine();
+        Console.WriteLine();    
     }
 }
 int m = GetDataFromUser("Введите количество столбцов");
